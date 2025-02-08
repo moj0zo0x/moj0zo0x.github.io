@@ -1,8 +1,8 @@
-title: mold # name of the site
-author: Yree # name of site's author
-email: mold@yree.io # email of site's author
-url: https://yree.io # root address of the site
-baseurl: "/mold" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+title: mojozoox! # name of the site
+author: Mojozoox # name of site's author
+email: mojozoox@hotmail.com # email of site's author
+url: m0j0zo0x.github.io # root address of the site
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   A minimal, optimized, lightweight design for static sites.
 
@@ -11,10 +11,9 @@ git_repo: yree/mold
 permalink: /:slug
 
 favicon: favicon.svg # name+extension of favicon (which must be put on the root folder)
-goat_counter: yree # put your GoatCounter name if you want to use GoatCounter analytics
 
-# theme: mold # if you are using GitHub Pages, change it to remote_theme: yree/mold
-remote_theme: yree/mold
+theme: mold # if you are using GitHub Pages, change it to remote_theme: yree/mold
+# remote_theme: yree/mold
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
