@@ -12,8 +12,8 @@ permalink: /:slug
 
 favicon: favicon.svg # name+extension of favicon (which must be put on the root folder)
 
-theme: mold # if you are using GitHub Pages, change it to remote_theme: yree/mold
-# remote_theme: yree/mold
+# theme: mold # if you are using GitHub Pages, change it to remote_theme: yree/mold
+remote_theme: yree/mold
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
