@@ -1,6 +1,6 @@
-# mold 🍄
+# mojozoox 🍄
 
-**A minimal optimized lightweight design.**
+This is hopefully a start to a greate writing experience, I know for sure md is my writing mojo, and with method I have found the right zooke. So is the list of my posts.
 
 Inspired from [no-style-please](https://github.com/riggraz/no-style-please) and [the-monospace-web](https://github.com/owickstrom/the-monospace-web).
 
